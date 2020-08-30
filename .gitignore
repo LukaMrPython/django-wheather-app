@@ -1,0 +1,6 @@
+.vscode/
+db.sqlite3
+the_wheather/__pycache__/
+the_wheather/the_wheather/__pycache__/
+the_wheather/wheather/__pycache__/
+the_wheather/wheather/migrations/__pycache__/
